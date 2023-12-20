@@ -11,9 +11,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-  watch_connectivity_platform_interface:
-    path: '../watch_connectivity_platform_interface'
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
